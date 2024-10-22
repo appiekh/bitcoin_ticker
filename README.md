@@ -1,16 +1,13 @@
-# bitcoin_ticker
+Bitcoin ticker, gemaakt met flutter.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Deze app, laat zien hoeveel een bepaalde crypto waard is in een gekozen valuta. Je kan je eigen valuta kiezen in een dropdown. 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Deze app gebruikt een API om de data te laten zien, en laat 2 verschillende soorten dropdowns zien op basis van je platform. Als je op IOS zit, krijg je dus een IOS-achtig dropdown, en andersom voor android.
+
+Doelen:
+  - Oefenen met API's
+  - Bepaalde acties uitvoeren gebaseerd op operating system van je telefoon.
